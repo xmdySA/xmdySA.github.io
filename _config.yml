@@ -33,7 +33,6 @@ gitalk:
     clientID: 224a9f50962035a7c07a
     clientSecret: f5f0089452fc4b9b55ee94598f5e4c8009dd6096
     admin: xmdySA
-    distractionFreeMode:true
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
