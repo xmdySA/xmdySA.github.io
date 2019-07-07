@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://avatars0.githubusercontent.com/u/52619702?s=400&u=ad11e710cbf466d150a2ea05b9477d09b1347430&v=4" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://wx3.sinaimg.cn/mw690/005tMzGmly1g4rj0zy8k5j30hs0hsmxl.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 ## 联系我
 
