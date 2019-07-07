@@ -27,7 +27,13 @@ description_footer: 本站记录汾酒新闻和其他小玩意！
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
 disqus_shortname: gaohaoyang
-gitalk：xmdySA
+gitalk:
+    enable: true
+    owner: xmdySA
+    repo: xmdySA.github.io
+    clientID: 224a9f50962035a7c07a
+    clientSecret: f5f0089452fc4b9b55ee94598f5e4c8009dd6096
+    admin: xmdySA
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
