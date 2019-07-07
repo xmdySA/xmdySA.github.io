@@ -1,6 +1,7 @@
-
+<link rel="stylesheet" href="http://www.zwwhnly.com/assets/css/gitalk.css">
+<script src="http://www.zwwhnly.com/assets/js/gitalk.min.js"></script>
 {% if site.gitalk %}
-<div id='gt-container'>
+<div id='gt-gitalk-container'></div>
 	<script>
         var gitalk = new Gitalk({
               clientID: '{{ site.gitalk.clientID }}',
@@ -14,7 +15,4 @@
 
             gitalk.render('disqus_thread')
     </script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-</div>
 {% endif %}
