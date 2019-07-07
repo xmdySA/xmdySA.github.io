@@ -29,7 +29,7 @@ description_footer: 本站记录汾酒新闻和其他小玩意！
 gitalk: 
     enable: true
     owner: xmdySA
-    repo: xmdySA.github.io
+    repo: https://xmdysa.github.io
     clientID: 224a9f50962035a7c07a
     clientSecret: f5f0089452fc4b9b55ee94598f5e4c8009dd6096
     admin: xmdySA
