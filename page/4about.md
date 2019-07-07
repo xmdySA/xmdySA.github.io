@@ -19,7 +19,4 @@ type: page
 * email：852689344@qq.com
 * CloudMusic：想猫的鱼SA
 
-## Comments
-
-{& include comments.html &}
 
