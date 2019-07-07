@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://raw.githubusercontent.com/xmdySA/xmdySA.github.io/master/favicon.png" style="border: 0;height: 200px;width: 200px;overflow: hidden;" frameBorder="0" ></iframe>
+<iframe src="https://i.bmp.ovh/imgs/2019/07/81b632f1afd926e0.png" style="border: 0;height: 200px;width: 200px;overflow: hidden;" frameBorder="0" ></iframe>
 
 ## 联系我
 
