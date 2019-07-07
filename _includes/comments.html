@@ -1,3 +1,9 @@
+{% if site.gitalk %}
+<div class="comment">
+ {% include comments.html %}
+  <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script  src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+</div>
 {% if site.duoshuo_shortname %}
 <!-- 多说评论框 start -->
 <div class="ds-thread" data-thread-key="{{ site.url }}{{ page.url }}" data-title="{{page.title}}" data-url="{{ site.url }}{{ page.url }}"></div>
@@ -18,10 +24,3 @@
 </script>
 <!-- 多说公共JS代码 end -->
 {% endif %}
-
-{% if site.gitalk %}
-<div class="comment">
- {% include comments.html %}
-  <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script  src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-</div>
